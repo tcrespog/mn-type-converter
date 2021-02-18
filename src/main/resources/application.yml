@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: mnTypeConverter
+myapp:
+  updatedAt:
+    day: 18
+    month: 2
+    year: 2021
